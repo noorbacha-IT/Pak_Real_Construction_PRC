@@ -1,10 +1,10 @@
-# Pak_Real_Construction_PRC
+## Pak_Real_Construction_PRC
 A full-stack construction management and e-commerce platform developed to digitalize construction-related services through a centralized online system.
 The platform connects customers, construction material providers, engineers, laborers, machinery owners, and service providers within a single ecosystem. The system simplifies construction workflows by providing product purchasing, package management, labor hiring, machinery availability, project tracking, and customer management features.
 
 .
 
-Project Objective
+## Project Objective
 Traditional construction businesses often face challenges such as:
 
 Difficulty arranging construction materials
@@ -15,7 +15,7 @@ Increased project expenses and delays
 Limited business reach for sellers and service providers
 Pak Real Construction (PRC) solves these issues by providing an integrated digital platform for construction management and services.
 
-Core Features
+### Core Features
 Admin Panel
 Admin Authentication
 Product Management
