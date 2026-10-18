@@ -112,3 +112,6 @@ Role-based authorization system
 E-commerce functionality integration
 Screenshots
 Landing Page
+<img width="1902" height="816" alt="1" src="https://github.com/user-attachments/assets/dd9d374f-845c-40ae-926e-dba13efb184a" />
+
+
