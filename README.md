@@ -247,4 +247,8 @@ Noor Ullah Bacha
 
 # License
 
-This repository is shared for portfolio and educational showcase purposes only.
+This repository is intended for portfolio demonstration and educational showcase purposes only. It highlights the project's key features, functionality, user interface, and technical implementation through screenshots and brief descriptions.
+
+The complete source code is not publicly available. However, source code may be provided upon request for professional evaluation, recruitment, or educational purposes, subject to applicable confidentiality and ownership restrictions.
+
+For source code inquiries or further information, please feel free to contact me.
