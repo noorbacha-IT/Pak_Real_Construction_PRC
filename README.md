@@ -7,12 +7,12 @@ The platform connects customers, construction material providers, engineers, lab
 ## 🔹Project Objective
 Traditional construction businesses often face challenges such as:
 
-Difficulty arranging construction materials
-Delays in labor and machinery hiring
-Lack of centralized construction services
-Contractor transparency issues
-Increased project expenses and delays
-Limited business reach for sellers and service providers
+- Difficulty arranging construction materials
+- Delays in labor and machinery hiring
+- Lack of centralized construction services
+- Contractor transparency issues
+- Increased project expenses and delays
+- Limited business reach for sellers and service providers
 Pak Real Construction (PRC) solves these issues by providing an integrated digital platform for construction management and services.
 
 ## 🔹Core Features
@@ -74,7 +74,6 @@ REST APIs
 ## 🔹Key Functionalities
 ### Product Management
 Admins can:
----
 - Add Products
 - Update Products
 - Delete Products
@@ -82,13 +81,13 @@ Admins can:
 - Package Management
 The platform allows customers to purchase complete construction packages including:
 
-Materials
-Labor
-Engineers
-Machinery
-Vehicles
-Construction Calculator
-Customers can estimate construction expenses through the integrated calculator system.
+- Materials
+- Labor
+- Engineers
+- Machinery
+- Vehicles
+- Construction Calculator
+- Customers can estimate construction expenses through the integrated calculator system.
 
 Video Progress Updates
 Admins can upload project progress videos for customers to monitor ongoing construction activities.
