@@ -1,4 +1,4 @@
-## Pak_Real_Construction_PRC
+# Pak_Real_Construction_PRC
 A full-stack construction management and e-commerce platform developed to digitalize construction-related services through a centralized online system.
 The platform connects customers, construction material providers, engineers, laborers, machinery owners, and service providers within a single ecosystem. The system simplifies construction workflows by providing product purchasing, package management, labor hiring, machinery availability, project tracking, and customer management features.
 
@@ -15,8 +15,8 @@ Increased project expenses and delays
 Limited business reach for sellers and service providers
 Pak Real Construction (PRC) solves these issues by providing an integrated digital platform for construction management and services.
 
-### Core Features
-Admin Panel
+# Core Features
+## Admin Panel
 Admin Authentication
 Product Management
 Package Management
@@ -29,7 +29,7 @@ User Role Management
 Customer Review Monitoring
 Video Upload System
 User Management
-Customer Features
+## Customer Features
 User Registration & Login
 Product Search & Filtering
 Construction Packages
@@ -41,27 +41,27 @@ Vehicle & Machinery Viewing
 Ratings & Reviews
 Complaint Submission
 Project Progress Video Viewing
-Service Provider Features
+## Service Provider Features
 Labor Registration
 Engineer Registration
 Vehicle Registration
 Service Application Approval System
-Technologies Used
-Frontend
+# Technologies Used
+## Frontend
 React JS
 Tailwind CSS
 Redux Toolkit
-Backend
+## Backend
 Node.js
 Express.js
-Database
+## Database
 MongoDB
-Other Technologies
+## Other Technologies
 JWT Authentication
 REST APIs
 Cloud Media Upload
 Responsive UI Design
-System Modules
+# System Modules
 Authentication & Authorization
 Product Management System
 Construction Package System
@@ -71,8 +71,8 @@ Order & Payment Management
 Review & Complaint System
 Video Update System
 Construction Cost Estimation Calculator
-Key Functionalities
-Product Management
+# Key Functionalities
+## Product Management
 Admins can:
 
 Add Products
