@@ -4,7 +4,7 @@ The platform connects customers, construction material providers, engineers, lab
 
 .
 
-## Project Objective
+## 🔹Project Objective
 Traditional construction businesses often face challenges such as:
 
 Difficulty arranging construction materials
@@ -15,71 +15,71 @@ Increased project expenses and delays
 Limited business reach for sellers and service providers
 Pak Real Construction (PRC) solves these issues by providing an integrated digital platform for construction management and services.
 
-# Core Features
-## Admin Panel
-Admin Authentication
-Product Management
-Package Management
-Vehicle Management
-Labor & Engineer Approval
-Order Management
-Payment Monitoring
-Complaint Management
-User Role Management
-Customer Review Monitoring
-Video Upload System
-User Management
-## Customer Features
-User Registration & Login
-Product Search & Filtering
-Construction Packages
-Product Cart System
-Checkout & Payment
-Construction Calculator
-Labor & Engineer Hiring
-Vehicle & Machinery Viewing
-Ratings & Reviews
-Complaint Submission
-Project Progress Video Viewing
-## Service Provider Features
-Labor Registration
-Engineer Registration
-Vehicle Registration
-Service Application Approval System
-# Technologies Used
-## Frontend
-React JS
-Tailwind CSS
-Redux Toolkit
-## Backend
-Node.js
-Express.js
-## Database
+## 🔹Core Features
+### Admin Panel
+- Admin Authentication
+- Product Management
+- Package Management
+- Vehicle Management
+- Labor & Engineer Approval
+- Order Management
+- Payment Monitoring
+- Complaint Management
+- User Role Management
+- Customer Review Monitoring
+- Video Upload System
+- User Management
+### Customer Features
+- User Registration & Login
+- Product Search & Filtering
+- Construction Packages
+- Product Cart System
+- Checkout & Payment
+- Construction Calculator
+- Labor & Engineer Hiring
+- Vehicle & Machinery Viewing
+- Ratings & Reviews
+- Complaint Submission
+- Project Progress Video Viewing
+### Service Provider Features
+- Labor Registration
+- Engineer Registration
+- Vehicle Registration
+- Service Application Approval System
+## 🔹Technologies Used
+### Frontend
+- React JS
+- Tailwind CSS
+- Redux Toolkit
+### Backend
+- Node.js
+- Express.js
+### Database
 MongoDB
-## Other Technologies
-JWT Authentication
+### Other Technologies
+- JWT Authentication
 REST APIs
-Cloud Media Upload
-Responsive UI Design
-# System Modules
-Authentication & Authorization
-Product Management System
-Construction Package System
-Vehicle & Machinery Management
-Labor & Engineer Management
-Order & Payment Management
-Review & Complaint System
-Video Update System
-Construction Cost Estimation Calculator
-# Key Functionalities
-## Product Management
+- Cloud Media Upload
+- Responsive UI Design
+## 🔹System Modules
+- Authentication & Authorization
+- Product Management System
+- Construction Package System
+- Vehicle & Machinery Management
+- Labor & Engineer Management
+- Order & Payment Management
+- Review & Complaint System
+- Video Update System
+- Construction Cost Estimation Calculator
+## 🔹Key Functionalities
+### Product Management
 Admins can:
-
-Add Products
-Update Products
-Delete Products
-Manage Product Information
-Package Management
+---
+- Add Products
+- Update Products
+- Delete Products
+- Manage Product Information
+- Package Management
 The platform allows customers to purchase complete construction packages including:
 
 Materials
